@@ -1,0 +1,3 @@
+Date,DishName,DishID,NumberSold,Discount,Price,Weather,Event
+2023-12-20,Burger,D001,50,0.1,5.0,Rainy,Christmas Sale
+2023-12-21,Fries,D002,100,0.2,2.0,Cloudy,None
